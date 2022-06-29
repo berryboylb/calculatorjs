@@ -52,6 +52,6 @@ while (true) {
       break;
     }
   } else {
-    console.log("Invalid Input");
+    alert("Invalid Input");
   }
 }
